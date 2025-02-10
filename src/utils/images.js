@@ -8,4 +8,4 @@ export const routesImages = {
     Home2: 'https://cdn.pixabay.com/animation/2022/09/28/02/42/02-42-52-631_512.gif'
 }
 
-export const options = ['Seguro?', 'Segurisimo?', 'Estas completamente seguro?', 'Ni por el Bicho?', 'Ni por Messi?', 'No te arrepentiras?', 'Pero si estas seguro?', 'En serio no?', 'El Bicho está decepcionado', 'Goku también', 'No hay nada', 'No hay', 'Que no hay']
+export const options = ['Segura?', 'Segurisima?', 'Estas completamente segura?', 'Ni por un croissant de chocolate?', 'Ni por una carnita de res?', 'No te arrepentiras?', 'Pero si estas segura?', 'En serio no?', 'No me voy hasta un sí', 'No hay manera de que no', 'no hay']
